@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @har-tan (Harri)
-I’m the founder of [One.Point.Coding](https://onepoint.coding), where we build web applications with purpose — from full-stack solutions to scalable infrastructure, with a focus on clarity, resilience, and user-first design.
+I’m the founder of [OnePointCode](https://onepointcode.com), where we build web applications with purpose — from full-stack solutions to scalable infrastructure, with a focus on clarity, resilience, and user-first design.
 
 ## 👀 I’m interested in ...
 - Architecting clean, maintainable full-stack systems
